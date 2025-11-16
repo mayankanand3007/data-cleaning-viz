@@ -8,13 +8,13 @@ This project cleans messy stock-market CSV files, standardizes schema, computes 
 - Cleans boolean and date columns
 - Removes invalid tickers/sector values
 - Computes:
- *- Agg1: Daily average close price per ticker
- *- Agg2: Average volume per sector
- *- Agg3: Daily percent return per ticker
+- * Agg1: Daily average close price per ticker
+- * Agg2: Average volume per sector
+- * Agg3: Daily percent return per ticker
 - Streamlit dashboard for:
- *- Filtering tickers
- *- Plotting price trends & returns
- *- Viewing cleaned data and aggregations
+- * Filtering tickers
+- * Plotting price trends & returns
+- * Viewing cleaned data and aggregations
 
 ## Installation of Required Libraries
 Install dependencies:
